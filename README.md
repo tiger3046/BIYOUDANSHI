@@ -8,7 +8,7 @@
 
 <h2>開発環境に関して</h2>
 現在、開発環境はAWSのcloud9で開発しております。
-そのため、OSは、Amazon linux2です。
+<p>そのため、OSは、Amazon linux2です。</p>
 フレームワークは、Django、bootstrapを使用する予定です。
 開発言語はpython3.7.3です。
 
